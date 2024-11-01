@@ -565,6 +565,7 @@ hr {
     #where article p{font-size: 16px;}
     #where p {font-size: 16px;}
     #dentist h2 span {font-size: 20px;}
+    #landing-page-form .simple input, #landing-page-form .simple textarea, #landing-page-form .btn {min-width: 300px;width: auto;}
 }
 
 @media (max-width: 400px) {
